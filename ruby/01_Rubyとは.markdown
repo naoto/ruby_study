@@ -68,13 +68,17 @@ Ruby とは
 
  http://www.ruby-lang.org/ja/
 
+### コーディング規約 ###
+
+ [Ruby Styleguide - Github](https://github.com/styleguide/ruby)
+
 ### Ruby の実装 ###
 
  * MRI(Matz' Ruby Implementation)
     * 1.8.x 以前の公式実装。C言語による実装
  * YARV
     * 1.9 以降の公式実装。VM
- * JRauby
+ * JRuby
     * Java 言語による実装。
  * IronRuby
     * .NET Framework 上で Ruby を動作させる実装
