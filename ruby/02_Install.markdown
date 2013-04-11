@@ -43,7 +43,7 @@ Ubuntu/Debian:
 ```shell
  $ sudo apt-get install build-essential bison openssl libreadline6 libreadline6-dev curl
  $ sudo apt-get install zlib1g zlib1g-dev libssl-dev libyaml-dev libxml2-dev autoconf
- $ sudo apt-get install libc6-dev ncurses-dev automake libtool libssl-dev
+ $ sudo apt-get install libc6-dev ncurses-dev automake libtool libssl-dev libsqlite3-dev
 ```
 
 CentOS/Redhat:
